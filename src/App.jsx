@@ -9,9 +9,11 @@ import {
 import Navbar from "./components/navbar/Navbar";
 import Home from "./pages/home/Home";
 import { ShoppingCartProvider } from "./components/context/ShoppingCartContext";
-import Sidebar from "./pages/sidebar/Sidebar";
-import ProductDetail from "./components/productDetail/productDetail";
+
 import Footer from "./components/Footer/Footer";
+import Sidebar from "./components/Sidebar/Sidebar";
+import ProductDetail from "./pages/productDetail/productDetail";
+
 const App = () => {
 	const Layout = () => {
 		return (
