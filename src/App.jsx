@@ -12,7 +12,7 @@ import { ShoppingCartProvider } from "./components/context/ShoppingCartContext";
 
 import Footer from "./components/footer/Footer";
 import Sidebar from "./components/sidebar/Sidebar";
-import ProductDetail from "./pages/productDetail/productDetail";
+import ProductDetail from "./pages/productDetail/ProductDetail";
 
 const App = () => {
 	const Layout = () => {
