@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { useParams } from "react-router-dom";
-import { useShoppingCart } from "../context/ShoppingCartContext";
+import { useShoppingCart } from "../../components/context/ShoppingCartContext";
 import "./ProductDetail.scss";
 
 const ProductDetail = () => {

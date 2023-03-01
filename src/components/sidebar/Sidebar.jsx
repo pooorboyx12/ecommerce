@@ -9,7 +9,7 @@ import {
 	AiFillDelete,
 } from "react-icons/ai";
 import { Link } from "react-router-dom";
-import { useShoppingCart } from "../../components/context/ShoppingCartContext";
+import { useShoppingCart } from "../context/ShoppingCartContext";
 import "./Sidebar.scss";
 const Sidebar = () => {
 	const {
