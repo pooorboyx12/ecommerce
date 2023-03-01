@@ -1,5 +1,5 @@
 import React from "react";
-import "./cartItem.scss";
+import "./CartItem.scss";
 import { GoDiffAdded } from "react-icons/go";
 import { AiFillEye } from "react-icons/ai";
 import { Link } from "react-router-dom";
