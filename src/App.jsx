@@ -10,8 +10,8 @@ import Navbar from "./components/navbar/Navbar";
 import Home from "./pages/home/Home";
 import { ShoppingCartProvider } from "./components/context/ShoppingCartContext";
 
-import Footer from "./components/Footer/Footer";
-import Sidebar from "./components/Sidebar/Sidebar";
+import Footer from "./components/footer/Footer";
+import Sidebar from "./components/sidebar/Sidebar";
 import ProductDetail from "./pages/productDetail/productDetail";
 
 const App = () => {
